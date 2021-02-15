@@ -1,0 +1,20 @@
+C:\Users\Casper\Desktop\C# Projeleri\Bilgi Yarışması\bilgiYarısması\bin\Debug\bilgiYarısması.exe.config
+C:\Users\Casper\Desktop\C# Projeleri\Bilgi Yarışması\bilgiYarısması\bin\Debug\bilgiYarısması.exe
+C:\Users\Casper\Desktop\C# Projeleri\Bilgi Yarışması\bilgiYarısması\bin\Debug\bilgiYarısması.pdb
+C:\Users\Casper\Desktop\C# Projeleri\Bilgi Yarışması\bilgiYarısması\obj\Debug\bilgiYarısması.csprojAssemblyReference.cache
+C:\Users\Casper\Desktop\C# Projeleri\Bilgi Yarışması\bilgiYarısması\obj\Debug\bilgiYarısması.Form1.resources
+C:\Users\Casper\Desktop\C# Projeleri\Bilgi Yarışması\bilgiYarısması\obj\Debug\bilgiYarısması.Properties.Resources.resources
+C:\Users\Casper\Desktop\C# Projeleri\Bilgi Yarışması\bilgiYarısması\obj\Debug\bilgiYarısması.csproj.GenerateResource.cache
+C:\Users\Casper\Desktop\C# Projeleri\Bilgi Yarışması\bilgiYarısması\obj\Debug\bilgiYarısması.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\C# Projeleri\Bilgi Yarışması\bilgiYarısması\obj\Debug\bilgiYarısması.exe
+C:\Users\Casper\Desktop\C# Projeleri\Bilgi Yarışması\bilgiYarısması\obj\Debug\bilgiYarısması.pdb
+C:\Users\Casper\Desktop\ÇALIŞMALAR\C#\Bilgi Yarışması\bilgiYarısması\bin\Debug\bilgiYarısması.exe.config
+C:\Users\Casper\Desktop\ÇALIŞMALAR\C#\Bilgi Yarışması\bilgiYarısması\bin\Debug\bilgiYarısması.exe
+C:\Users\Casper\Desktop\ÇALIŞMALAR\C#\Bilgi Yarışması\bilgiYarısması\bin\Debug\bilgiYarısması.pdb
+C:\Users\Casper\Desktop\ÇALIŞMALAR\C#\Bilgi Yarışması\bilgiYarısması\obj\Debug\bilgiYarısması.csprojAssemblyReference.cache
+C:\Users\Casper\Desktop\ÇALIŞMALAR\C#\Bilgi Yarışması\bilgiYarısması\obj\Debug\bilgiYarısması.Form1.resources
+C:\Users\Casper\Desktop\ÇALIŞMALAR\C#\Bilgi Yarışması\bilgiYarısması\obj\Debug\bilgiYarısması.Properties.Resources.resources
+C:\Users\Casper\Desktop\ÇALIŞMALAR\C#\Bilgi Yarışması\bilgiYarısması\obj\Debug\bilgiYarısması.csproj.GenerateResource.cache
+C:\Users\Casper\Desktop\ÇALIŞMALAR\C#\Bilgi Yarışması\bilgiYarısması\obj\Debug\bilgiYarısması.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\ÇALIŞMALAR\C#\Bilgi Yarışması\bilgiYarısması\obj\Debug\bilgiYarısması.exe
+C:\Users\Casper\Desktop\ÇALIŞMALAR\C#\Bilgi Yarışması\bilgiYarısması\obj\Debug\bilgiYarısması.pdb
